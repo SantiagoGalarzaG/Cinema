@@ -1,0 +1,6 @@
+{
+    "editor.detectIndentation": true,
+    "workbench.commandPalette.experimental.enableNaturalLanguageSearch": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.commandPalette.preserveInput": true
+}
